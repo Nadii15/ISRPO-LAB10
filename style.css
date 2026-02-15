@@ -261,3 +261,8 @@ button{
     color: #606060;
 }
 
+.video-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px,1fr));
+    gap: 16px;
+}
