@@ -341,3 +341,18 @@ button{
     font-size: 13px;
   }
 }
+
+
+#scrollToTop {
+  position: fixed;
+  bottom: 24px;   
+  right: 24px;    
+  
+
+}
+
+.footer{
+position: fixed;
+bottom: 10px;   
+left: 300px;  
+}
